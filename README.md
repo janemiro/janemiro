@@ -14,14 +14,14 @@ If you are hiring, I'm open for collaboration! (last update: 7. April 2022)
 
 These tools I know well and use at my current work:
 
-![Intelij_IDEA](https://user-images.githubusercontent.com/29123677/162249703-f5ffdb02-a803-4cf1-93b9-036169ea7ff2.png)
+![Intellij_IDEA](https://user-images.githubusercontent.com/29123677/162249703-f5ffdb02-a803-4cf1-93b9-036169ea7ff2.png)
 ![Jira](https://user-images.githubusercontent.com/29123677/162252226-e95d8737-6533-4ad5-ab20-d4b121c596b2.png)
 ![postman](https://user-images.githubusercontent.com/29123677/162252251-8d1dc873-100a-4ba2-8fb6-87b551221e0f.png)
 ![gitlab](https://user-images.githubusercontent.com/29123677/162252771-84b5ade1-81f8-4fd9-890a-3fa565a84462.png)
 ![Allure_Report](https://user-images.githubusercontent.com/29123677/162249713-26f79e88-7d9c-4e2c-809e-9c65c35d6e3f.png)
 <details><summary>expand the names</summary>
 <p>
- ◾ Intelij IDEA ◾ 
+ ◾ Intellij IDEA ◾ 
 Jira ◾ 
 Postman ◾ 
 GitLab ◾ 
