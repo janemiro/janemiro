@@ -19,10 +19,10 @@ These tools I know well and use daily:
 ![postman](https://user-images.githubusercontent.com/29123677/162252251-8d1dc873-100a-4ba2-8fb6-87b551221e0f.png)
 ![gitlab](https://user-images.githubusercontent.com/29123677/162252771-84b5ade1-81f8-4fd9-890a-3fa565a84462.png)
 ![Allure_Report](https://user-images.githubusercontent.com/29123677/162249713-26f79e88-7d9c-4e2c-809e-9c65c35d6e3f.png)
-![kibana](https://user-images.githubusercontent.com/29123677/162269261-091c1292-31e8-4558-a453-01f272984988.png)
-![openshift](https://user-images.githubusercontent.com/29123677/162268752-685518bb-0aa5-458c-99d1-fb110e815784.png)
-![jaeger](https://user-images.githubusercontent.com/29123677/162269738-c80b7b2e-3bfb-47b5-a4c3-183c1adbb225.png)
-![lens-logo-icon](https://user-images.githubusercontent.com/29123677/162268776-482e3d1a-0b51-4f51-9528-14715fe98cb5.png)
+![kibana](https://user-images.githubusercontent.com/29123677/162278117-f6ea7f0a-bfd9-4d48-aa76-8ac5209e3be1.png)
+![openshift](https://user-images.githubusercontent.com/29123677/162277786-a7cf7705-245e-4cf0-8876-f4b7e578d6ec.png)
+![jaeger](https://user-images.githubusercontent.com/29123677/162277803-20c8523a-c1da-4a08-86f9-79099b028848.png)
+![lens](https://user-images.githubusercontent.com/29123677/162277817-7b9746de-324b-4b05-a24e-5352edf9358e.png)
 
 <details><summary>expand the names</summary>
 <p>
