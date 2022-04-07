@@ -18,7 +18,7 @@ These tools I know well and use daily:
 ![Jira](https://user-images.githubusercontent.com/29123677/162252226-e95d8737-6533-4ad5-ab20-d4b121c596b2.png)
 ![postman](https://user-images.githubusercontent.com/29123677/162278352-25b85cb7-c406-4a79-bd9c-5c5c8d8cdee5.png)
 ![gitlab](https://user-images.githubusercontent.com/29123677/162280042-a1fcc3d2-2557-4bf8-a26a-18575d1283a1.png)
-![Allure_Report](https://user-images.githubusercontent.com/29123677/162249713-26f79e88-7d9c-4e2c-809e-9c65c35d6e3f.png)
+![Allure_Report](https://user-images.githubusercontent.com/29123677/162280655-d695e979-be03-48d5-9e07-fb28452438c1.png)
 ![kibana](https://user-images.githubusercontent.com/29123677/162278117-f6ea7f0a-bfd9-4d48-aa76-8ac5209e3be1.png)
 ![openshift](https://user-images.githubusercontent.com/29123677/162279113-522ff1dd-232d-43ef-8a5b-482bd2a6c2d5.png)
 ![jaeger](https://user-images.githubusercontent.com/29123677/162278826-74abd6f2-4374-400e-80b1-0954827a18bf.png)
