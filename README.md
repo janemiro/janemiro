@@ -29,7 +29,8 @@ Allure Report ◾
 </p>
 </details>
 
-These tools I'm using in my own test projects and constantly improving my skills by myself:
+These tools I'm using in my own test projects and constantly improving my skills by myself and with <a href=https://qa.guru/
+class=Link.com>QA GURU</a>:
 
 ![Java](https://user-images.githubusercontent.com/29123677/162249695-96c7e541-b3c5-41bb-8d80-7dc8c135e38c.png)
 ![Gradle](https://user-images.githubusercontent.com/29123677/162249701-9158a2b8-1b7e-4061-ae81-7f8b2d0953d1.png)
