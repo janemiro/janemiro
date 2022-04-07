@@ -20,7 +20,7 @@ These tools I know well and use daily:
 ![gitlab](https://user-images.githubusercontent.com/29123677/162278362-02909caa-b740-44cf-92b8-142b4e119230.png)
 ![Allure_Report](https://user-images.githubusercontent.com/29123677/162249713-26f79e88-7d9c-4e2c-809e-9c65c35d6e3f.png)
 ![kibana](https://user-images.githubusercontent.com/29123677/162278117-f6ea7f0a-bfd9-4d48-aa76-8ac5209e3be1.png)
-![openshift](https://user-images.githubusercontent.com/29123677/162277786-a7cf7705-245e-4cf0-8876-f4b7e578d6ec.png)
+![openshift](https://user-images.githubusercontent.com/29123677/162279113-522ff1dd-232d-43ef-8a5b-482bd2a6c2d5.png)
 ![jaeger](https://user-images.githubusercontent.com/29123677/162278826-74abd6f2-4374-400e-80b1-0954827a18bf.png)
 ![lens](https://user-images.githubusercontent.com/29123677/162277817-7b9746de-324b-4b05-a24e-5352edf9358e.png)
 
