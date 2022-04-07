@@ -12,13 +12,18 @@ If you are hiring, I'm open for collaboration! (last update: 7. April 2022)
 - 2 years experience in Microservice architecture integrational testing (~300 microservices) 
 - 6 years total of Test Plan, Test Design, Test Execution, Test report analysis
 
-These tools I know well and use at my current work:
+These tools I know well and use daily:
 
 ![Intellij_IDEA](https://user-images.githubusercontent.com/29123677/162249703-f5ffdb02-a803-4cf1-93b9-036169ea7ff2.png)
 ![Jira](https://user-images.githubusercontent.com/29123677/162252226-e95d8737-6533-4ad5-ab20-d4b121c596b2.png)
 ![postman](https://user-images.githubusercontent.com/29123677/162252251-8d1dc873-100a-4ba2-8fb6-87b551221e0f.png)
 ![gitlab](https://user-images.githubusercontent.com/29123677/162252771-84b5ade1-81f8-4fd9-890a-3fa565a84462.png)
 ![Allure_Report](https://user-images.githubusercontent.com/29123677/162249713-26f79e88-7d9c-4e2c-809e-9c65c35d6e3f.png)
+![kibana](https://user-images.githubusercontent.com/29123677/162269261-091c1292-31e8-4558-a453-01f272984988.png)
+![openshift](https://user-images.githubusercontent.com/29123677/162268752-685518bb-0aa5-458c-99d1-fb110e815784.png)
+![jaeger](https://user-images.githubusercontent.com/29123677/162269738-c80b7b2e-3bfb-47b5-a4c3-183c1adbb225.png)
+![lens-logo-icon](https://user-images.githubusercontent.com/29123677/162268776-482e3d1a-0b51-4f51-9528-14715fe98cb5.png)
+
 <details><summary>expand the names</summary>
 <p>
  ◾ Intellij IDEA ◾ 
@@ -26,6 +31,10 @@ Jira ◾
 Postman ◾ 
 GitLab ◾ 
 Allure Report ◾ 
+Kibana ◾ 
+OpenShift ◾ 
+Jaeger ◾ 
+Lens Logs  ◾ 
 </p>
 </details>
 
