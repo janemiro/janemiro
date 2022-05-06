@@ -9,7 +9,7 @@ My name is Evgeniia, I'm a Test Expert.
 If you are hiring, I'm open for collaboration! (last update: 7. May 2022)
 
 - 4 years experience in WebApp integrational testing (Telecommuncation)
-- 2 years experience in Microservice architecture integrational testing (~300 microservices) 
+- 2 years experience in Microservice architecture integrational testing (~300 microservices) in CI/CD
 - 6 years total of Test Plan, Test Design, Test Execution, Test report analysis
 
 These tools I know well and use daily:
