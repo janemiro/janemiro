@@ -1,14 +1,14 @@
 ### Aloha! 😸
 My name is Evgeniia, I'm a Test Expert.
 
-- I've been working as manual Tester for 6 years.
+- I've been working as manual Tester for 8 years.
 - I'm involved into Test Automation as well for 1 year.
 - This github is my playground and study materials for learning Automation.
 - Smoothly going from 80/20 manual/auto testing to 50/50 -> 20/80
 
-- 4 years experience in WebApp integrational testing (Telecommuncation)
-- 2 years experience in Microservice architecture integrational testing (~300 microservices) in CI/CD
-- 6 years total of Test Plan, Test Design, Test Execution, Test report analysis
+- 6 years experience in WebApp integrational testing (Telecommuncation)
+- 4 years experience in Microservice architecture integrational testing (~300 microservices) in CI/CD
+- 8 years total of Test Plan, Test Design, Test Execution, Test report analysis
 
 These tools I know well and use daily:
 
@@ -60,7 +60,7 @@ Telegram notifications ◾
 </p>
 </details>
 
-These tools I'm going to learn within the next month just to expand my overall Test expertise:
+These tools I'm going to learn within the 2025 just to expand my overall Test expertise:
 
 ![appium](https://user-images.githubusercontent.com/29123677/162253468-22b4a948-26b6-4564-b854-2179d2dab7be.png)
 ![androidstudio](https://user-images.githubusercontent.com/29123677/162253866-5fb68ccd-ac2f-4bb2-a286-561066ed7a41.png)
