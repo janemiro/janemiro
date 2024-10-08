@@ -6,8 +6,8 @@ My name is Evgeniia, I'm a Test Expert.
 - This github is my playground and study materials for learning Automation.
 - Smoothly going from 80/20 manual/auto testing to 50/50 -> 20/80
 
-- 6 years experience in WebApp integrational testing (Telecommuncation)
-- 4 years experience in Microservice architecture integrational testing (~300 microservices) in CI/CD
+- 6 years experience in WebApp integrational testing (Telecommuncation, Video on-demand over-the-top streaming service)
+- 6 years experience in Microservice architecture integrational testing (~300 microservices) in CI/CD
 - 8 years total of Test Plan, Test Design, Test Execution, Test report analysis
 
 These tools I know well and use daily:
